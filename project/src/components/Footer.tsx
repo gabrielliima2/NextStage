@@ -12,7 +12,7 @@ export const Footer = () => {
           <div className="md:col-span-1">
             <Logo />
             <p className="mt-4 text-gray-400 text-sm">
-              Soluções digitais modernas para levar seu negócio ao próximo estágio.
+              Soluções digitais modernas para levar seu negócio ao próximo estágio
             </p>
           </div>
           

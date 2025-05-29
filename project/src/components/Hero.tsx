@@ -14,10 +14,10 @@ export const Hero = () => {
             transition={{ duration: 0.5 }}
           >
             <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold text-gray-900 dark:text-white leading-tight mb-6">
-              Soluções digitais modernas para levar seu negócio ao próximo estágio.
+              Soluções digitais modernas para levar seu negócio ao próximo estágio
             </h1>
             <p className="text-lg text-gray-600 dark:text-gray-300 mb-8 max-w-lg">
-              Criamos websites personalizados e cartões digitais interativos que elevam sua presença online e impulsionam seu crescimento.
+              Criamos websites personalizados e cartões digitais interativos que elevam sua presença online e impulsionam seu crescimento
             </p>
             <div className="flex flex-col sm:flex-row space-y-4 sm:space-y-0 sm:space-x-4">
               <a 
